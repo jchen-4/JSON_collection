@@ -7,10 +7,12 @@
 body{
     background-image: url(https://media.istockphoto.com/vectors/old-dusty-grunge-black-and-white-texture-dark-weathered-overlay-of-vector-id1068633462?b=1&k=6&m=1068633462&s=612x612&w=0&h=j9LAkqIBWaWynoX8J4Y7lAOfD6fMqidcsZFBGhh4w9E=);
 }
-#output_div {
+.output_div {
   font-size: 25px;
   display: flex;
   justify-content: center;
+  font-family: "Helvetica";
+
 }
 
 h5{
@@ -26,10 +28,7 @@ h5{
   padding: 2vmin;
   font-size: 1.5rem;
 }
-#output_div {
-  font-family: "Helvetica";
-  font-size: 40px;
-}
+
 .album_title{
   display: flex;
   justify-content: center;

@@ -117,3 +117,4 @@ create_new_div.classList.add('div_content');
   grid.appendChild(create_new_div);
 
 }
+AOS.init();
